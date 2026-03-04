@@ -27,6 +27,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Embedded git repositories
+# Embedded git repositories (for reference only, managed by their own git)
 langchain/
-
+deepagents/
