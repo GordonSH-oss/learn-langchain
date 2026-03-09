@@ -31,4 +31,3 @@ Thumbs.db
 # Embedded git repositories (for reference only, managed by their own git)
 langchain/
 deepagents/
-learn-langchain/
